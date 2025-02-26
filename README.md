@@ -1,5 +1,7 @@
 # Hi there 👋
 👋 Olá, eu sou a Natália Ambrósio!
+
+
 💡 De Publicidade para Tecnologia | 🎯 Quality Assurance há 5 anos
 
 Sou formada em Publicidade e Propaganda, mas minha paixão por tecnologia me levou a cursar Análise de Sistemas e mergulhar no mundo de QA. Desde então, venho garantindo qualidade em softwares, criando cenários de testes, validando funcionalidades e contribuindo para produtos mais estáveis e confiáveis.
